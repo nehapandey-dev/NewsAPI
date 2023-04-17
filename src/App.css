@@ -1,0 +1,61 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: aliceblue;
+}
+.brand{
+    color: #8dc3f5;
+}
+.nav{
+    padding-left: 100px;
+}
+.me-auto{
+    margin-left: 100px;
+}
+.link{
+    text-decoration: none;
+    margin: 18px;
+    color: #fff;
+}
+.link:hover{
+    color: rgb(63, 63, 247);
+}
+.head{
+    background-color:white;
+    padding-left: 400px;
+}
+.heading-main{
+    animation: bounceInDown;
+    animation-duration:6s;
+    margin-left: 80px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 10px;
+    color:#03203C;
+}
+.heading-img{
+    width:40vw;
+    height: 55vh;
+    margin-top: 10px;
+    background-image: url('https://media.istockphoto.com/id/909302854/photo/world-news.jpg?b=1&s=170667a&w=0&k=20&c=85UxPVyyYN1CpdsdJkOUyIDzf3ePdlsTShf24oGAAhg=');
+    background-repeat: no-repeat;
+    animation: slideInLeft;
+    animation-duration:3s;
+}
+.head-two{
+    margin-left: 30px;
+    color:#03203C;
+}
+.footer{
+    height: 20vh;
+    background-color: rgb(48, 47, 47);
+    color: #fff;
+    padding-left: 85px;
+    padding-right: 80px;
+    padding-top: 6px;
+}
+span{
+    color: #0776dd;
+}
